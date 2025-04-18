@@ -41,7 +41,5 @@ A more complex model that combines biological plausibility with computational ef
 | Backend    | Flask, Flask-CORS             |
 | Database   | MySQL                         |
 
----
 
-## 🗂️ Project Structure
 
