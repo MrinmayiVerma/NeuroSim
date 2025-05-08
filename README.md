@@ -17,12 +17,14 @@
 ---
 
 ## Features
-
-- **Interactive Simulations**: Simulate and visualize neural networks in real-time.
 - **User-Friendly Interface**: A clean and responsive UI styled with CSS for a seamless experience.
-- **TypeScript-Based Development**: Ensures robust, scalable, and maintainable code.
-- **Extensibility**: Easily add new features or customize the simulation logic.
-
+  ![alt text](https://github.com/MrinmayiVerma/NeuroSim/blob/main/Landing%20Page.jpg)
+  ![alt text](https://github.com/MrinmayiVerma/NeuroSim/blob/main/Register.png)
+  ![alt text](https://github.com/MrinmayiVerma/NeuroSim/blob/main/Sign%20IN.png)
+- **Interactive Simulations**: Simulate and visualize neural networks in real-time.
+  ![alt text](https://github.com/MrinmayiVerma/NeuroSim/blob/main/Neuron%20Simulation.jpg)
+- **Simulation History**: Easily view previously generated simulations.
+  ![alt text](https://github.com/MrinmayiVerma/NeuroSim/blob/main/Simulation%20History.jpg)
 ---
 
 ## Tech Stack
